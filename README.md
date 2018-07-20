@@ -8,3 +8,6 @@ You can read about the spirograph here: https://en.wikipedia.org/wiki/Spirograph
 Here you can see how a spirograph curve looks like, the code is provided as well.
 You need to click "Run" in order to run the code and see the visual.
 https://trinket.io/library/trinkets/076a815583
+
+You can find the image of the screen saver in the folder Images:
+https://github.com/alv2017/Python-ScreenSaver/blob/master/Images/SpiroScreenSaver.png
